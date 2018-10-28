@@ -1,3 +1,4 @@
 
-Python clas
 Data Science
+Python class
+Java
